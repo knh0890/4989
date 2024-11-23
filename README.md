@@ -10,7 +10,7 @@ SpringBoot(JPA) + Thymeleaf
 ## ⚙️개발 환경
 - `Java 17`
 - `JDK 17.0.11`
-- **IDE** : STS 4.0
+- **IDE** : IntelliJ Community
 - **Framework** : Springboot(3.3.2)
 - **Database** : MySQL(8.0.37)
 - **ORM** : JPA
